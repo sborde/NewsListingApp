@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_size">16dp</dimen>
+    <dimen name="search_button_size">36dp</dimen>
+    <dimen name="search_bar_height">72dp</dimen>
+    <dimen name="button_padding">8dp</dimen>
+    <dimen name="button_radius">10dp</dimen>
+
+    <dimen name="status_icon_size">36dp</dimen>
+    <dimen name="progressbar_size">72dp</dimen>
+
+    <dimen name="list_item_view_minheight">72dp</dimen>
+    <dimen name="label_margin">8dp</dimen>
+
+</resources>

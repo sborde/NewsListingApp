@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Latest tech news</string>
+    <string name="published_label">Published:</string>
+    <string name="topic_label">Section:</string>
+    <string name="no_result_found">No result found.</string>
+    <string name="no_internet_found">No internet access.</string>
+
+
+    <string name="unknown_publishing_date">-</string>
+    <string name="unknown_author">unknown author</string>
+
+</resources>
